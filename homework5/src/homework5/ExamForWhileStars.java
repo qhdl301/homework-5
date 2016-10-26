@@ -13,6 +13,7 @@ public class ExamForWhileStars {
 		System.out.println("3.이등변 삼각형 별찍기");
 		System.out.println("4.다이아몬드 별찍기");
 		System.out.println("5.종료하기");
+		System.out.println("원하는 메뉴는>>");
 	
 	num=s.nextInt();
 	if(num == 1)

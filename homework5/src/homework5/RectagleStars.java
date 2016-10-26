@@ -9,7 +9,7 @@ public class RectagleStars {
         
 		do{
 	    this.queqe="";
-		System.out.println("정사각형 크기입력: ");
+		System.out.println("정사각형 크기입력(q입력하면 리스트로): ");
 		if(s.hasNextInt()){
 		num=s.nextInt();
 		if(num!=0){

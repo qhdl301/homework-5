@@ -1,6 +1,6 @@
 package homework5;
 import java.util.*;
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
+
 public class RectagleStars {
 	Scanner s=new Scanner(System.in);	
     int num;

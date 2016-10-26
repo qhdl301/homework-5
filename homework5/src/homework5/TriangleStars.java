@@ -1,9 +1,5 @@
 package homework5;
-import java.awt.print.Printable;
 import java.util.*;
-
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
-
 public class TriangleStars {
 Scanner s= new Scanner(System.in);
 int num;

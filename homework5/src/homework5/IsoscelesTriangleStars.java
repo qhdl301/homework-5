@@ -4,7 +4,6 @@ import java.util.*;
 public class IsoscelesTriangleStars {
 Scanner s= new Scanner(System.in);
 int num;
-int num2;
 String queqe;
 
 	void input(){
